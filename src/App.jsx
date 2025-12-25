@@ -1,10 +1,10 @@
 import React from "react";
-import TextChange from "./TextChange";
+import Hello from "./Hello";
 
 function App() {
   return (
     <div>
-      <TextChange />
+      <Hello />
     </div>
   );
 }
